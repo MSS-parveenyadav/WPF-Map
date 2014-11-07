@@ -1,0 +1,29 @@
+﻿<Window x:Class="mapApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        
+     
+             <m:Map Name="myMap" 
+               Center="30.73331480,76.77941790" 
+               ZoomLevel="8"
+               CredentialsProvider="AvlkMB6giUynqH158Y0hfwSWtaBRnKPNCcgl4mqybi0kCZVnLUpoIcCBYOCyfSkc"
+               Mode="Road" >
+            <m:Pushpin Location="30.73331480,76.77941790"  >
+                <ToolTipService.ToolTip >
+                    <ToolTip Content="30.73331480,76.77941790">
+                        
+                    </ToolTip>
+                </ToolTipService.ToolTip>
+            </m:Pushpin>
+            <m:Pushpin Location="30.780,75.480"/>
+            <m:Pushpin Location="30.9009650,75.85727580"/>
+
+
+        </m:Map>
+            
+   
+    </Grid>
+</Window>

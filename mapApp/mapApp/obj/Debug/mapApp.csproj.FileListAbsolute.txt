@@ -1,0 +1,16 @@
+F:\WPF Demo\mapApp\mapApp\bin\Debug\mapApp.exe.config
+F:\WPF Demo\mapApp\mapApp\bin\Debug\mapApp.exe
+F:\WPF Demo\mapApp\mapApp\bin\Debug\mapApp.pdb
+F:\WPF Demo\mapApp\mapApp\bin\Debug\ImageFileCache.dll
+F:\WPF Demo\mapApp\mapApp\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+F:\WPF Demo\mapApp\mapApp\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+F:\WPF Demo\mapApp\mapApp\obj\Debug\MainWindow.baml
+F:\WPF Demo\mapApp\mapApp\obj\Debug\MainWindow.g.cs
+F:\WPF Demo\mapApp\mapApp\obj\Debug\App.g.cs
+F:\WPF Demo\mapApp\mapApp\obj\Debug\mapApp_MarkupCompile.cache
+F:\WPF Demo\mapApp\mapApp\obj\Debug\mapApp.g.resources
+F:\WPF Demo\mapApp\mapApp\obj\Debug\mapApp.Properties.Resources.resources
+F:\WPF Demo\mapApp\mapApp\obj\Debug\mapApp.csproj.GenerateResource.Cache
+F:\WPF Demo\mapApp\mapApp\obj\Debug\mapApp.exe
+F:\WPF Demo\mapApp\mapApp\obj\Debug\mapApp.pdb
+F:\WPF Demo\mapApp\mapApp\obj\Debug\mapApp.csprojResolveAssemblyReference.cache
